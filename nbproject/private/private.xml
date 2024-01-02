@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/web/PrikazPravnoLice.jsp</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/ServerServlets/AddFizickiServer.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/web/AddFizickiServer.jsp</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/Models/FizickoLice.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/Models/PravnoLice.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/Models/FizickiServer.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/web/PrikazFizickoLice.jsp</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/Models/VirtuelniServer.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/src/java/FizickoLiceServlets/EditFizickoLice.java</file>
+            <file>file:/Users/stefanmilenkovic/NetBeansProjects/ipprojekat/web/EditFizickoLice.jsp</file>
+        </group>
+    </open-files>
+</project-private>
